@@ -3,7 +3,7 @@ import React from "react";
 export default class Search extends React.Component {
   state = {
     search: "panda",
-    type: "all",
+    type: "all"
   };
 
   getMovie() {
